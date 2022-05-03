@@ -1,0 +1,16 @@
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.AssemblyInfo.cs
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\bin\Debug\net5.0\dicegame.exe
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\bin\Debug\net5.0\dicegame.deps.json
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\bin\Debug\net5.0\dicegame.runtimeconfig.json
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\bin\Debug\net5.0\dicegame.runtimeconfig.dev.json
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\bin\Debug\net5.0\dicegame.dll
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\bin\Debug\net5.0\dicegame.pdb
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.dll
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\refint\dicegame.dll
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.pdb
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\dicegame.genruntimeconfig.cache
+C:\Users\matth\Desktop\My Projects\School Projects\cse210\dicegame\obj\Debug\net5.0\ref\dicegame.dll
